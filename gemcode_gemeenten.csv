@@ -210,7 +210,7 @@
 208,GM1699,Noordenveld
 209,GM0171,Noordoostpolder
 210,GM0575,Noordwijk
-211,GM0820,"Nuenen, Gerwen en Nederwetten"
+"211,GM0820,""Nuenen, Gerwen en Nederwetten"""
 212,GM0302,Nunspeet
 213,GM0579,Oegstgeest
 214,GM0823,Oirschot
@@ -503,7 +503,7 @@
 501,GM0675,Hontenisse
 502,GM0801,Hooge en Lage Mierde
 503,GM0802,Hooge en Lage Zwaluwe
-504,GM0800,"Hoogeloon, Hapert en Casteren"
+"504,GM0800,""Hoogeloon, Hapert en Casteren"""
 505,GM0018,Hoogezand-Sappemeer
 506,GM0923,Horst
 507,GM0803,Huijbergen
@@ -597,7 +597,7 @@
 595,GM0122,Odoorn
 596,GM0174,Olst
 597,GM0881,Onderbanken
-598,GM0825,"Oost-, West- en Middelbeers"
+"598,GM0825,""Oost-, West- en Middelbeers"""
 599,GM0692,Oostburg
 600,GM0123,Oosterhesselen
 601,GM0580,Oostflakkee
@@ -673,7 +673,7 @@
 671,GM0720,Valkenisse
 672,GM0860,Veghel
 673,GM0454,Venhuizen
-674,GM0862,"Vessem, Wintelre en Knegsel"
+"674,GM0862,""Vessem, Wintelre en Knegsel"""
 675,GM0620,Vianen
 676,GM0863,Vierlingsbeek
 677,GM0048,Vlagtwedde
@@ -726,3 +726,30 @@
 724,GM0192,Zwartsluis
 725,GM0138,Zweeloo
 726,NL01,Nederland
+727,GM1900,Súdwest Fryslân
+728,GM1740,Nederbetuwe
+729,GM1586,Oost-Gelre
+730,GM0888,Beek
+731,GM0893,Bergen L
+732,GM0971,Stein
+733,GM0994,Valkenburg a/d Geul
+734,GM0820,Nuenen ca
+735,GM0796,'s Hertogenbosch
+736,GM0845,Sint Michielsgestel
+737,GM0373,Bergen NH
+738,GM0417,Laren
+739,GM0437,Ouder Amstel
+740,GM0532,Stede-Broec
+741,GM0164,Hengelo
+742,GM1961,Vijherenlanden
+743,GM0687,Middelburg
+744,GM1695,Noord Beveland
+745,GM0484,Alphen a/d Rijn
+746,GM0502,Capelle a/d IJssel
+747,GM0542,Krimpen a/d IJssel
+748,GM0603,Rijswijk
+749,GM0518,'s Gravenhage
+750,GM9910,Belgi�
+751,GM9920,Duitsland
+752,GM9930,ander land
+753,GM9940,Onbekend
