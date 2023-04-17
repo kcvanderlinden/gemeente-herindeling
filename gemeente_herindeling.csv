@@ -1,120 +1,120 @@
-Oud_Gemeentenaam;Nieuw_Gemeentenaam;Provincie;Veranderjaar;Oud_Gemcode;Nieuw_Gemcode
-Anna Paulowna;Hollands Kroon;NH.;2012;GM0366;GM1911
-Niedorp;Hollands Kroon;NH.;2012;GM0412;GM1911
-Wieringen;Hollands Kroon;NH.;2012;GM0462;GM1911
-Wieringermeer;Hollands Kroon;NH.;2012;GM0463;GM1911
-Harenkarspel;Schagen;NH;2013;GM0395;GM0441
-Schagen;Schagen;NH;2013;GM0441;GM0441
-Zijpe;Schagen;NH;2013;GM0476;GM0441
-Dirksland;Goeree-Overflakkee;ZH;2013;GM0504;GM1924
-Goedereede;Goeree-Overflakkee;ZH ;2013;GM0511 ;GM1924
-Middelharnis;Goeree-Overflakkee;ZH;2013;GM0559;GM1924
-Oostflakkee;Goeree-Overflakkee;ZH;2013;GM0580;GM1924
-Graafstroom;Molenwaard;ZH;2013;GM0693;GM1927
-Liesveld;Molenwaard;ZH ;2013;GM0694;GM1927
-Nieuw-Lekkerland;Molenwaard;ZH ;2013;GM0571;GM1927
-Alphen aan den Rijn;Alphen aan den Rijn;ZH;2014;GM0484;GM0484
-Boskoop;Alphen aan den Rijn;ZH;2014;GM0499;GM0484
-Rijnwoude;Alphen aan den Rijn;ZH;2014;GM1672;GM0484
-Gaasterlân-Sleat;De Friese Meren;F;2014;GM0653;GM1921
-Lemsterland;De Friese Meren;F;2014;GM0082 ;GM1921
-Skasterlân;De Friese Meren;F;2014;GM0051;GM1921
-Boarnsterhim;De Friese Meren;F;2014;GM0055;GM1921
-Leeuwarden;Leeuwarden;F;2014;GM0080;GM0080
-Heerenveen;Heerenveen;F;2014;GM0074;GM0074
-Alkmaar;Alkmaar;NH;2015;GM0361;GM0361
-Graft-De Rijp;Alkmaar;NH;2015;GM0365;GM0361
-Schermer;Alkmaar;NH;2015;GM0458;GM0361
-Groesbeek;Groesbeek;Gld;2015;GM0241;GM0241
-Millingen aan de Rijn;Groesbeek;Gld;2015;GM0265 ;GM0241
-Ubbergen;Groesbeek;Gld;2015;GM0282;GM0241
-Bernisse;Nissewaard;ZH;2015;GM0568;GM1930
-Spijkenisse;Nissewaard;ZH;2015;GM0612;GM1930
-Bergambacht;Krimpenerwaard;ZH;2015;GM0491;GM1931
-Nederlek;Krimpenerwaard;ZH;2015;GM0643;GM1931
-Ouderkerk;Krimpenerwaard;ZH;2015;GM0644;GM1931
-Schoonhoven;Krimpenerwaard;ZH;2015;GM0608;GM1931
-Vlist;Krimpenerwaard;ZH;2015;GM0623;GM1931
-'s-Hertogenbosch;'s-Hertogenbosch;NB;2015;GM0796;GM0796
-Oss;Oss;NB;2015;GM0828;GM0828
-Maasdonk;'s-Hertogenbosch;NB;2015;GM1671;GM0796
-De Friese Meren;De Fryske Marren;F;2016;GM1921;GM1940
-Groesbeek;Berg en Dal;Gld;2016;GM0241;GM1945
-Bussum;Gooise Meren;NH;2016;GM0381;GM1942
-Muiden;Gooise Meren;NH;2016;GM0424;GM1942
-Naarden;Gooise Meren;NH;2016;GM0425;GM1942
-Edam-Volendam;Edam-Volendam;NH;2016;GM0385;GM0385
-Zeevang;Edam-Volendam;NH;2016;GM0478;GM0385
-Schijndel;Meierijstad;NB;2017;GM0844;GM1948
-Sint-Oedenrode;Meierijstad;NB;2017;GM0846           ;GM1948
-Veghel;Meierijstad;NB;2017;GM0860           ;GM1948
-Hoogezand-Sappemeer;Midden-Groningen; Gr;2018;GM0018;GM1952 
-Slochteren;Midden-Groningen; Gr;2018;GM0040;GM1952 
-Vlagtwedde;Westerwolde; Gr;2018;GM0048;GM1950
-het Bildt;Waadhoeke; F;2018;GM0063;GM1949
-Franekeradeel;Waadhoeke; F;2018;GM0070;GM1949
-Leeuwarden;Leeuwarden; F;2018;GM0080;GM0080
-Leeuwarderadeel;Leeuwarden; F;2018;GM0081;GM0080
-Littenseradiel 1;Waadhoeke; F;2018;GM0140;GM1949
-Littenseradiel 1;Leeuwarden; F;2018;GM0140;GM0080
-Littenseradiel;Súdwest-Fryslân; F;2018;GM0140;GM1900
-Rijnwaarden;Zevenaar; Gld;2018;GM0196;GM0299
-Zevenaar;Zevenaar; Gld;2018;GM0299;GM0299 
-Súdwest-Fryslân;Súdwest-Fryslân; F;2018;GM1900;GM1900
-Menameradiel;Waadhoeke; F;2018;GM1908;GM1949
-Menterwolde;Midden-Groningen; Gr;2018;GM1987;GM1952
-Bellingwedde;Westerwolde; Gr;2018;GM0007;GM1950
-Bedum;Het Hogeland;Gr;2019;GM0005;GM1966
-Ten Boer;Groningen;Gr;2019;GM0009;GM0014
-Groningen;Groningen;Gr;2019;GM0014;GM0014
-Grootegast;Westerkwartier;Gr;2019;GM0015;GM1969
-Haren;Groningen;Gr;2019;GM0017;GM0014
-Leek;Westerkwartier;Gr;2019;GM0022;GM1969
-Marum;Westerkwartier;Gr;2019;GM0025;GM1969
-Winsum;Het Hogeland;Gr;2019;GM0053;GM1966
-Zuidhorn;Westerkwartier;Gr;2019;GM0056;GM1969
-Dongeradeel;Noardeast-Fryslân;F;2019;GM0058;GM1970
-Kollumerland en Nieuwkruisland;Noardeast-Fryslân;F;2019;GM0079;GM1970
-Geldermalsen;West Betuwe;Gld;2019;GM0236;GM1960
-Neerijnen;West Betuwe;Gld;2019;GM0304;GM1960
-Haarlemmerliede en Spaarnwoude;Haarlemmermeer;NH;2019;GM0393;GM0394
-Haarlemmermeer;Haarlemmermeer;NH;2019;GM0394;GM0394
-Leerdam;Vijfheerenlanden;U;2019;GM0545;GM1961
-Noordwijk;Noordwijk;ZH;2019;GM0575;GM0575
-Noordwijkerhout;Noordwijk;ZH;2019;GM0576;GM0575
-Oud-Beijerland;Hoeksche Waard;ZH;2019;GM0584;GM1963
-Binnenmaas;Hoeksche Waard;ZH;2019;GM0585;GM1963
-Korendijk;Hoeksche Waard;ZH;2019;GM0588;GM1963
-Cromstrijen;Hoeksche Waard;ZH;2019;GM0611;GM1963
-Strijen;Hoeksche Waard;ZH;2019;GM0617;GM1963
-Vianen;Vijfheerenlanden;U;2019;GM0620;GM1961
-Giessenlanden;Molenlanden;ZH;2019;GM0689;GM1978
-Zederik;Vijfheerenlanden;U;2019;GM0707;GM1961
-Lingewaal;West Betuwe;Gld;2019;GM0733;GM1960
-Aalburg;Altena;NB;2019;GM0738;GM1959
-Werkendam;Altena;NB;2019;GM0870;GM1959
-Woudrichem;Altena;NB;2019;GM0874;GM1959
-Onderbanken;Beekdaelen;L;2019;GM0881;GM1954
-Nuth;Beekdaelen;L;2019;GM0951;GM1954
-Schinnen;Beekdaelen;L;2019;GM0962;GM1954
-Eemsmond;Het Hogeland;Gr;2019;GM1651;GM1966
-De Marne;Het Hogeland;Gr;2019;GM1663;GM1966
-Ferwerderadiel;Noardeast-Fryslân;F;2019;GM1722;GM1970
-Molenwaard;Molenlanden;ZH;2019;GM1927;GM1978
-Appingedam;Eemsdelta;Gr.;2021;GM0003;GM1979
-Delfzijl;Eemsdelta;Gr.;2021;GM0010;GM1979
-Loppersum;Eemsdelta;Gr.;2021;GM0024;GM1979
-Haaren1;Oisterwijk;NB.;2021;GM0788;GM0824
-Haaren;Vught;NB.;2021;GM0788;GM0865
-Haaren1;Boxtel;NB.;2021;GM0788;GM0757
-Beemster;Purmerend;NH.;2022;GM0370;GM0439
-Heerhugowaard;Dijk en Waard;NH.;2022;GM0398;GM1980
-Langedijk;Dijk en Waard;NH.;2022;GM0416;GM1980
-Purmerend;Purmerend;NH.;2022;GM0439;GM0439
-Boxmeer;Land van Cuijk;NB.;2022;GM0756;GM1982
-Grave;Land van Cuijk;NB.;2022;GM0786;GM1982
-Mill en Sint Hubert;Land van Cuijk;NB.;2022;GM0815;GM1982
-Uden;Maashorst;NB.;2022;GM0856;GM1991
-Cuijk;Land van Cuijk;NB.;2022;GM1684;GM1982
-Landerd;Maashorst;NB.;2022;GM1685;GM1991
-Sint Anthonis;Land van Cuijk;NB.;2022;GM1702;GM1982
+,Oud_Gemeentenaam,Nieuw_Gemeentenaam,Provincie,Veranderjaar,Oud_Gemcode,Nieuw_Gemcode
+0,Anna Paulowna,Hollands Kroon,NH.,2012,GM0366,GM1911
+1,Niedorp,Hollands Kroon,NH.,2012,GM0412,GM1911
+2,Wieringen,Hollands Kroon,NH.,2012,GM0462,GM1911
+3,Wieringermeer,Hollands Kroon,NH.,2012,GM0463,GM1911
+4,Harenkarspel,Schagen,NH,2013,GM0395,GM0441
+5,Schagen,Schagen,NH,2013,GM0441,GM0441
+6,Zijpe,Schagen,NH,2013,GM0476,GM0441
+7,Dirksland,Goeree-Overflakkee,ZH,2013,GM0504,GM1924
+8,Goedereede,Goeree-Overflakkee,ZH,2013,GM0511,GM1924
+9,Middelharnis,Goeree-Overflakkee,ZH,2013,GM0559,GM1924
+10,Oostflakkee,Goeree-Overflakkee,ZH,2013,GM0580,GM1924
+11,Graafstroom,Molenwaard,ZH,2013,GM0693,GM1927
+12,Liesveld,Molenwaard,ZH,2013,GM0694,GM1927
+13,Nieuw-Lekkerland,Molenwaard,ZH,2013,GM0571,GM1927
+14,Alphen aan den Rijn,Alphen aan den Rijn,ZH,2014,GM0484,GM0484
+15,Boskoop,Alphen aan den Rijn,ZH,2014,GM0499,GM0484
+16,Rijnwoude,Alphen aan den Rijn,ZH,2014,GM1672,GM0484
+17,GaasterlÃ¢n-Sleat,De Friese Meren,F,2014,GM0653,GM1921
+18,Lemsterland,De Friese Meren,F,2014,GM0082,GM1921
+19,SkasterlÃ¢n,De Friese Meren,F,2014,GM0051,GM1921
+20,Boarnsterhim,De Friese Meren,F,2014,GM0055,GM1921
+21,Leeuwarden,Leeuwarden,F,2014,GM0080,GM0080
+22,Heerenveen,Heerenveen,F,2014,GM0074,GM0074
+23,Alkmaar,Alkmaar,NH,2015,GM0361,GM0361
+24,Graft-De Rijp,Alkmaar,NH,2015,GM0365,GM0361
+25,Schermer,Alkmaar,NH,2015,GM0458,GM0361
+26,Groesbeek,Groesbeek,Gld,2015,GM0241,GM0241
+27,Millingen aan de Rijn,Groesbeek,Gld,2015,GM0265,GM0241
+28,Ubbergen,Groesbeek,Gld,2015,GM0282,GM0241
+29,Bernisse,Nissewaard,ZH,2015,GM0568,GM1930
+30,Spijkenisse,Nissewaard,ZH,2015,GM0612,GM1930
+31,Bergambacht,Krimpenerwaard,ZH,2015,GM0491,GM1931
+32,Nederlek,Krimpenerwaard,ZH,2015,GM0643,GM1931
+33,Ouderkerk,Krimpenerwaard,ZH,2015,GM0644,GM1931
+34,Schoonhoven,Krimpenerwaard,ZH,2015,GM0608,GM1931
+35,Vlist,Krimpenerwaard,ZH,2015,GM0623,GM1931
+36,'s-Hertogenbosch,'s-Hertogenbosch,NB,2015,GM0796,GM0796
+37,Oss,Oss,NB,2015,GM0828,GM0828
+38,Maasdonk,'s-Hertogenbosch,NB,2015,GM1671,GM0796
+39,De Friese Meren,De Fryske Marren,F,2016,GM1921,GM1940
+40,Groesbeek,Berg en Dal,Gld,2016,GM0241,GM1945
+41,Bussum,Gooise Meren,NH,2016,GM0381,GM1942
+42,Muiden,Gooise Meren,NH,2016,GM0424,GM1942
+43,Naarden,Gooise Meren,NH,2016,GM0425,GM1942
+44,Edam-Volendam,Edam-Volendam,NH,2016,GM0385,GM0385
+45,Zeevang,Edam-Volendam,NH,2016,GM0478,GM0385
+46,Schijndel,Meierijstad,NB,2017,GM0844,GM1948
+47,Sint-Oedenrode,Meierijstad,NB,2017,GM0846,GM1948
+48,Veghel,Meierijstad,NB,2017,GM0860,GM1948
+49,Hoogezand-Sappemeer,Midden-Groningen,Gr,2018,GM0018,GM1952
+50,Slochteren,Midden-Groningen,Gr,2018,GM0040,GM1952
+51,Vlagtwedde,Westerwolde,Gr,2018,GM0048,GM1950
+52,het Bildt,Waadhoeke,F,2018,GM0063,GM1949
+53,Franekeradeel,Waadhoeke,F,2018,GM0070,GM1949
+54,Leeuwarden,Leeuwarden,F,2018,GM0080,GM0080
+55,Leeuwarderadeel,Leeuwarden,F,2018,GM0081,GM0080
+56,LittenseradielÂ 1,Waadhoeke,F,2018,GM0140,GM1949
+57,LittenseradielÂ 1,Leeuwarden,F,2018,GM0140,GM0080
+58,Littenseradiel,SÃºdwest-FryslÃ¢n,F,2018,GM0140,GM1900
+59,Rijnwaarden,Zevenaar,Gld,2018,GM0196,GM0299
+60,Zevenaar,Zevenaar,Gld,2018,GM0299,GM0299
+61,SÃºdwest-FryslÃ¢n,SÃºdwest-FryslÃ¢n,F,2018,GM1900,GM1900
+62,Menameradiel,Waadhoeke,F,2018,GM1908,GM1949
+63,Menterwolde,Midden-Groningen,Gr,2018,GM1987,GM1952
+64,Bellingwedde,Westerwolde,Gr,2018,GM0007,GM1950
+65,Bedum,Het Hogeland,Gr,2019,GM0005,GM1966
+66,Ten Boer,Groningen,Gr,2019,GM0009,GM0014
+67,Groningen,Groningen,Gr,2019,GM0014,GM0014
+68,Grootegast,Westerkwartier,Gr,2019,GM0015,GM1969
+69,Haren,Groningen,Gr,2019,GM0017,GM0014
+70,Leek,Westerkwartier,Gr,2019,GM0022,GM1969
+71,Marum,Westerkwartier,Gr,2019,GM0025,GM1969
+72,Winsum,Het Hogeland,Gr,2019,GM0053,GM1966
+73,Zuidhorn,Westerkwartier,Gr,2019,GM0056,GM1969
+74,Dongeradeel,Noardeast-FryslÃ¢n,F,2019,GM0058,GM1970
+75,Kollumerland en Nieuwkruisland,Noardeast-FryslÃ¢n,F,2019,GM0079,GM1970
+76,Geldermalsen,West Betuwe,Gld,2019,GM0236,GM1960
+77,Neerijnen,West Betuwe,Gld,2019,GM0304,GM1960
+78,Haarlemmerliede en Spaarnwoude,Haarlemmermeer,NH,2019,GM0393,GM0394
+79,Haarlemmermeer,Haarlemmermeer,NH,2019,GM0394,GM0394
+80,Leerdam,Vijfheerenlanden,U,2019,GM0545,GM1961
+81,Noordwijk,Noordwijk,ZH,2019,GM0575,GM0575
+82,Noordwijkerhout,Noordwijk,ZH,2019,GM0576,GM0575
+83,Oud-Beijerland,Hoeksche Waard,ZH,2019,GM0584,GM1963
+84,Binnenmaas,Hoeksche Waard,ZH,2019,GM0585,GM1963
+85,Korendijk,Hoeksche Waard,ZH,2019,GM0588,GM1963
+86,Cromstrijen,Hoeksche Waard,ZH,2019,GM0611,GM1963
+87,Strijen,Hoeksche Waard,ZH,2019,GM0617,GM1963
+88,Vianen,Vijfheerenlanden,U,2019,GM0620,GM1961
+89,Giessenlanden,Molenlanden,ZH,2019,GM0689,GM1978
+90,Zederik,Vijfheerenlanden,U,2019,GM0707,GM1961
+91,Lingewaal,West Betuwe,Gld,2019,GM0733,GM1960
+92,Aalburg,Altena,NB,2019,GM0738,GM1959
+93,Werkendam,Altena,NB,2019,GM0870,GM1959
+94,Woudrichem,Altena,NB,2019,GM0874,GM1959
+95,Onderbanken,Beekdaelen,L,2019,GM0881,GM1954
+96,Nuth,Beekdaelen,L,2019,GM0951,GM1954
+97,Schinnen,Beekdaelen,L,2019,GM0962,GM1954
+98,Eemsmond,Het Hogeland,Gr,2019,GM1651,GM1966
+99,De Marne,Het Hogeland,Gr,2019,GM1663,GM1966
+100,Ferwerderadiel,Noardeast-FryslÃ¢n,F,2019,GM1722,GM1970
+101,Molenwaard,Molenlanden,ZH,2019,GM1927,GM1978
+102,Appingedam,Eemsdelta,Gr.,2021,GM0003,GM1979
+103,Delfzijl,Eemsdelta,Gr.,2021,GM0010,GM1979
+104,Loppersum,Eemsdelta,Gr.,2021,GM0024,GM1979
+105,Haaren1,Oisterwijk,NB.,2021,GM0788,GM0824
+106,Haaren,Vught,NB.,2021,GM0788,GM0865
+107,Haaren1,Boxtel,NB.,2021,GM0788,GM0757
+108,Beemster,Purmerend,NH.,2022,GM0370,GM0439
+109,Heerhugowaard,Dijk en Waard,NH.,2022,GM0398,GM1980
+110,Langedijk,Dijk en Waard,NH.,2022,GM0416,GM1980
+111,Purmerend,Purmerend,NH.,2022,GM0439,GM0439
+112,Boxmeer,Land van Cuijk,NB.,2022,GM0756,GM1982
+113,Grave,Land van Cuijk,NB.,2022,GM0786,GM1982
+114,Mill en Sint Hubert,Land van Cuijk,NB.,2022,GM0815,GM1982
+115,Uden,Maashorst,NB.,2022,GM0856,GM1991
+116,Cuijk,Land van Cuijk,NB.,2022,GM1684,GM1982
+117,Landerd,Maashorst,NB.,2022,GM1685,GM1991
+118,Sint Anthonis,Land van Cuijk,NB.,2022,GM1702,GM1982
